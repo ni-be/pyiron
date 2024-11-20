@@ -46,8 +46,8 @@ See the `Documentation <http://pyiron.org>`_ page for more details.
 
 .. note::
    **pyiron**: This is the documentation page for the pyiron meta package, that combines the other packages in a common
-   interface.  The API documentation for `pyiron_base <https://pyiron_base.readthedocs.io/en/latest/>`_ and
-   `pyiron_atomistics <https://pyiron_atomistics.readthedocs.io/en/latest/>`_ are available as separate pages.
+   interface.  The API documentation for `pyiron_base <https://pyiron-base.readthedocs.io/en/latest/>`_ and
+   `pyiron_atomistics <https://pyiron-atomistics.readthedocs.io/en/latest/>`_ are available as separate pages.
 
 
 Installation
